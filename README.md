@@ -7,6 +7,6 @@ Reason No.1 : Compared to the BSG Creation Engine, REDengine can just barely be 
 
 Reason No.2 : While I enjoy both games to some extent, I am a hardcore fan of neither. I have some opinions ...
 
-- Witcher :  CDPR did a much better job with the IP than Sapkowski. But I read Sapkowski and now I can't unread it. It's not good, and I don't buy the "lost in translation" argument, since its problems start at a very high level.
+- Witcher :  CDPR did a much better job with the IP than Sapkowski. But I read Sapkowski and now I can't unread it. It's mediocre at best, and I don't buy the "lost in translation" argument, since its problems start at a very high level.
 - Cyberpunk : I am a fan of Blade Runner. I am familiar with the Cyberpunk RPG. And yet, CP2077 falls flat -- with respect to characters and environment in particular. (Yes, even after the DLCs.)
 

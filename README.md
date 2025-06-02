@@ -1,6 +1,6 @@
 # REDengine
 
-I am intrigued by the moddability of REDengine, but honestly ...
+I am intrigued by the moddability of REDengine, however ...
 if I don't put a lot of content here, there are reasons.
 
 - No.1 : Compared to the BSG Creation Engine, REDengine can just barely be called moddable.
